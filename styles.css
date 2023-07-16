@@ -14,7 +14,7 @@ body {
   background: #E3F2FD;
   background-image: url("wp4025673-sacred-games-wallpapers.jpg");
   background-size: cover;
- /* background-repeat: no-repeat;*/
+  background-repeat: no-repeat;
   height:100%;
 }
 .img{
